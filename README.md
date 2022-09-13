@@ -1,6 +1,6 @@
 # social_service
 
-Сервис разработан на fastapi с networkx
+Сервис разработан на fastapi с networkx.
 
 Установка и запуск:
 
